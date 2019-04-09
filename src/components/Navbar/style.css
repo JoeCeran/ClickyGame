@@ -1,0 +1,27 @@
+.navbar li {
+  display: inline-block;
+  text-align: center;
+  
+}
+
+.itemLeft {
+  padding-right: 380px;
+}
+
+.itemCenter {
+  padding-right: 380px;
+}
+
+.navbar {
+  background: #490549;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+li {
+  color: white;
+  padding: 15px 0;
+}
+
+body {
+  font-size: 24px;
+}
